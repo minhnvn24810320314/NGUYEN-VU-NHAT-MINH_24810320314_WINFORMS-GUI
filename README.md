@@ -1,4 +1,8 @@
 # 🛒 TechMart Product Manager - Windows Forms Application
+---
+
+## 📸 Demo Giao Diện
+![Giao diện TechMart Product Manager](demo.png)
 
 Dự án phần mềm quản lý danh mục sản phẩm dành cho hệ thống cửa hàng bán lẻ TechMart, được xây dựng trên nền tảng **Windows Forms (C# / .NET)** với giao diện động (Dynamic UI) linh hoạt và tự động co giãn (Responsive).
 
